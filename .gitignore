@@ -26,3 +26,6 @@ secrets.*
 dist/
 build/
 *.egg-info/
+
+# 独立 clone 的第三方子项目（有自己的 .git 与远端，241M，不进本仓库）
+WeChatDataAnalysis/
